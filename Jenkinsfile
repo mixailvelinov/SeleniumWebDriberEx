@@ -29,10 +29,24 @@ pipeline{
           }
         }
 
-        stage("Run the tests") {
+        stage("Run TestProject1 tests") {
           steps{
-            echo "Running the tests..."
-            bat "dotnet test"
+            echo "Running TestProject1 tests..."
+            bat "dotnet test TestProject1/TestProject1.csproj"
+          }
+        }
+
+        stage("Run TestProject2 tests") {
+          steps{
+            echo "Running TestProject2 tests..."
+            bat "dotnet test TestProject2/TestProject2.csproj"
+          }
+        }
+
+        stage("Run TestProject3 tests") {
+          steps{
+            echo "Running TestProject3 tests..."
+            bat "dotnet test TestProject3/TestProject3.csproj"
           }
         }
     }
