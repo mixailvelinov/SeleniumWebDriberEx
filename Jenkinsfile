@@ -4,7 +4,7 @@ pipeline{
         stage("Checkout the code"){
             steps{
                 echo "Checking out the code..."
-                git branch: main, url: "https://github.com/mixailvelinov/SeleniumWebDriberEx"
+                git branch: "main", url: "https://github.com/mixailvelinov/SeleniumWebDriberEx"
             }
         }
 
