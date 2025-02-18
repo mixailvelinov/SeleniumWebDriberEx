@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|c:\\users\\mihail\\downloads\\10-exercise-ci-cd-jenkins-resources\\10-exercise-ci-cd-jenkins-resources\\06-seleniumwebdriver\\testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|c:\\users\\mihail\\downloads\\10-exercise-ci-cd-jenkins-resources\\10-exercise-ci-cd-jenkins-resources\\06-seleniumwebdriver\\testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|c:\\users\\mihail\\downloads\\10-exercise-ci-cd-jenkins-resources\\10-exercise-ci-cd-jenkins-resources\\06-seleniumwebdriver\\testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
+              "RelativeDocumentMoniker": "TestProject3\\DropDown.cs",
+              "ToolTip": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
+              "RelativeToolTip": "TestProject3\\DropDown.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:16:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\TestProject2\\Table.cs",
+              "RelativeDocumentMoniker": "TestProject2\\Table.cs",
+              "ToolTip": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\TestProject2\\Table.cs",
+              "RelativeToolTip": "TestProject2\\Table.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:16:05.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestCalculator.cs",
+              "ToolTip": "C:\\Users\\Mihail\\Downloads\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\06-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
+              "RelativeToolTip": "TestProject1\\TestCalculator.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:14:59.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
